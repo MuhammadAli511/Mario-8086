@@ -1,3 +1,3 @@
 # Mario-8086
 
-# Collabration with @Oheed911
+# Collabration with github.com/Oheed911
